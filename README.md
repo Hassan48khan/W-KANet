@@ -4,7 +4,9 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official implementation of **"W-KANet: A Wavelet-Guided Kolmogorov-Arnold Network for Robust Cardiac Segmentation in Echocardiographic Images"**.
+Official implementation of **"W-KANet: Wavelet-Guided Kolmogorov-Arnold Networks with
+Cross-Spatial Multi-Scale Attention and Boundary-Reverse
+Refinement for Cardiac Segmentation"**.
 
 W-KANet is a novel architecture that synergistically integrates Haar wavelet decomposition, Kolmogorov-Arnold Networks (KANs), and cross-spatial multi-scale attention with tri-stream boundary-reverse fusion for robust cardiac left ventricle segmentation.
 
@@ -166,9 +168,11 @@ If you find this work useful, please cite:
 
 ```bibtex
 @article{wkanet2026,
-  title={W-KANet: A Wavelet-Guided Kolmogorov-Arnold Network for Robust Cardiac Segmentation in Echocardiographic Images},
+  title={W-KANet: Wavelet-Guided Kolmogorov-Arnold Networks with
+Cross-Spatial Multi-Scale Attention and Boundary-Reverse
+Refinement for Cardiac Segmentation},
   author={Khan, Hassan and others},
-  journal={IEEE Transactions on Medical Imaging},
+  journal={Submitted},
   year={2026}
 }
 ```
