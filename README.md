@@ -14,7 +14,7 @@ W-KANet is a novel architecture that synergistically integrates Haar wavelet dec
 
 <!-- Add your architecture figure here -->
 <p align="center">
-  <img src="architecture.png" alt="W-KANet Architecture" width="900"/>
+  <img src="architecturee.png" alt="W-KANet Architecture" width="900"/>
 </p>
 
 *Figure 1: The complete W-KANet architecture showing the encoder-decoder structure with MSFE, WKGMSABlock, TSBRF, and HDRD components.*
